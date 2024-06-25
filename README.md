@@ -3,6 +3,8 @@ PICO-8 puzzle game made for Pursuing Pixels James Jam Game Gam #3
 
 A sliding movement puzzle game where you control multiple restless forest spirits at once.  
 
+Uploading docs soon.
+
 [Mastodon Thread🧵](https://mastodon.gamedev.place/@Achie7240/112633876498102756)  
 [Twitter Thread 🧵](https://x.com/Achie7240/status/1802741639095484916)  
 [Youtube Playlist 🎥](https://www.youtube.com/watch?v=Do6TrKuGK8s&list=PLPSb7Xjlfm8d9n6nZRMbZOWZdxmyA9i5R)
